@@ -1,15 +1,1 @@
-I am master2 !!
-
-
-Master2 Lets apply Stash !
-
-
-
-Master2 STash AGain !
-Modified: Yes !
-
-
-
-Lets do with -U and see changes  !!!
-
-Stash Master2 Order
+Master2 Master !!!
