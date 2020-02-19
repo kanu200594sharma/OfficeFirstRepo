@@ -1,7 +1,2 @@
-Hello I am Master1 !!!
-
-Hello I have been Modified !!!
-
-
-
-Master1 Stash !!!
+Master1 
+Branch: Master !!!
