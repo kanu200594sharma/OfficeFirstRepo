@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+Master1 
+Branch: Master !!!
+=======
+Master1 !!!
+
+Branch: mergeBranch1
+>>>>>>> mergeBranch1
